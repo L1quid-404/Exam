@@ -1,0 +1,12 @@
+.bachynskyi_exam/
+venv/
+env/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.dockerignore
+
+Thumbs.db
+desktop.ini
